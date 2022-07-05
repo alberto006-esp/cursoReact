@@ -1,8 +1,8 @@
 # cursoReact freecodecamp
--crear diferentes componentes de React.
+- Crear diferentes componentes de React.
 
--administrar las propiedades de estado de los datos.
+- Administrar las propiedades de estado de los datos.
 
--usar diferentes métodos de ciclo de vida.
+- Usar diferentes métodos de ciclo de vida.
 
--etc
+- Etc
