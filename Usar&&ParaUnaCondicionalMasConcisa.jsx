@@ -15,7 +15,7 @@ class MyComponent extends React.Component {
      
      
       return (
-         // Otra forma de poner condiciones sin if/else. usamos el operador && para que la condicion sea concisa.
+         // Otra forma de poner condiciones sin if/else. usamos el operador && para que la condicion sea mas concisa.
          <div>
            <button onClick={this.toggleDisplay}>Toggle Display</button>
             {this.state.display && <h1>Displayed!</h1>}
