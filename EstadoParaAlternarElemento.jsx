@@ -16,11 +16,11 @@ class MyComponent extends React.Component {
           return {visibility: true}
       });
     }
-    {/* toggleVisibility() { otra forma de hacerlo
-    this.setState(state => ({
-        visibility: !state.visibility
-      }));
-    }*/} 
+   // {/* toggleVisibility() { otra forma de hacerlo
+   // this.setState(state => ({
+   //     visibility: !state.visibility
+   //   }));
+    //  }*/} 
     render() {
       if (this.state.visibility) {
         return (
